@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/reactbuttonclock/static/css/main.076f22a3.chunk.css",
+    "main.js": "/reactbuttonclock/static/js/main.6c0a062e.chunk.js",
+    "main.js.map": "/reactbuttonclock/static/js/main.6c0a062e.chunk.js.map",
+    "runtime-main.js": "/reactbuttonclock/static/js/runtime-main.fb932c3c.js",
+    "runtime-main.js.map": "/reactbuttonclock/static/js/runtime-main.fb932c3c.js.map",
+    "static/js/2.4cd93fc6.chunk.js": "/reactbuttonclock/static/js/2.4cd93fc6.chunk.js",
+    "static/js/2.4cd93fc6.chunk.js.map": "/reactbuttonclock/static/js/2.4cd93fc6.chunk.js.map",
+    "static/js/3.1c790c26.chunk.js": "/reactbuttonclock/static/js/3.1c790c26.chunk.js",
+    "static/js/3.1c790c26.chunk.js.map": "/reactbuttonclock/static/js/3.1c790c26.chunk.js.map",
+    "index.html": "/reactbuttonclock/index.html",
+    "static/css/main.076f22a3.chunk.css.map": "/reactbuttonclock/static/css/main.076f22a3.chunk.css.map",
+    "static/js/2.4cd93fc6.chunk.js.LICENSE.txt": "/reactbuttonclock/static/js/2.4cd93fc6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fb932c3c.js",
+    "static/js/2.4cd93fc6.chunk.js",
+    "static/css/main.076f22a3.chunk.css",
+    "static/js/main.6c0a062e.chunk.js"
+  ]
+}
